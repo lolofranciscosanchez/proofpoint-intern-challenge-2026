@@ -1,0 +1,24 @@
+Series Name,Season Number,Episode Number,Episode Title,Air Date
+Missing Season Show,0,2,Episode 2,2023-01-08
+Missing Episode Show,1,0,Episode 3,2023-01-15
+Empty Title Show,1,4,Untitled Episode,2023-01-22
+Missing Date Show,1,5,Episode 5,Unknown
+Format Show,0,1,Text Season,2023-02-01
+Format Show,0,2,Float Season,2023-02-08
+Format Show,0,3,Negative Season,2023-02-15
+Format Show,1,0,Text Episode,2023-02-22
+Bad Dates Show,1,1,Not a Date,Unknown
+Bad Dates Show,1,2,Impossible Date 1,Unknown
+Bad Dates Show,1,3,Impossible Date 2,Unknown
+  Whitespace Show  , 1 , 1 ,   Trim Me   , 2023-04-01 
+cApItAlIzAtIoN TeSt,1,2,sOmE tItLe,2023-04-08
+Duplicate Show A,1,10,The Real Pilot,2023-05-01
+Duplicate Show B,0,5,The Special Episode,2023-06-01
+Duplicate Show C,2,0,The Finale Crossover,2023-07-01
+Comedy Central,1,1,Random Episode 1,2023-03-10
+The Great Show,2,5,Random Episode 5,2023-01-15
+Comedy Central,5,3,Random Episode 3,2023-04-25
+The Great Show,1,3,Random Episode 3,2023-02-20
+The Great Show,5,20,Random Episode 20,2023-01-15
+Comedy Central,2,18,Random Episode 18,2023-04-25
+The Great Show,4,19,Random Episode 19,2023-03-10

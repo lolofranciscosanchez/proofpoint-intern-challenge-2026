@@ -1,0 +1,6 @@
+Hello, World! This is a test. A simple test of the word frequency!
+Can we find the most frequent words? 
+Yes, we can! We can count Words, words, WORDS. 
+This test is a good test for testing. Don't you think so?
+It's important to handle punctuation correctly. Punctuation like commas, periods, and exclamation marks!
+Words; words... and more words.
