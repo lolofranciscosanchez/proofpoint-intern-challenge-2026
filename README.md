@@ -36,6 +36,6 @@ This will output the top 10 most frequent words directly to the console.
 🧑‍💻 Author
 Francisco Sánchez
 
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/francisco-sanchez-5b64aa232/
 
 - Email: 11francisco.sanchez@gmail.com
