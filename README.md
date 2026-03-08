@@ -23,12 +23,14 @@ pip install pandas
 
 Part B: The Streaming Service's Lost Episodes
 To execute the data cleaning and deduplication process:
+cd part_b_catalog
 python process_episodes.py
 
 This will read episodes_raw.csv and generate both episodes_clean.csv and report.md in the root directory.
 
 Part C: Word Frequency Analysis
 To execute the word frequency analyzer, pass the target text file as an argument:
+cd part_c_frequency
 python word_frequency.py sample_text.txt
 
 This will output the top 10 most frequent words directly to the console.
