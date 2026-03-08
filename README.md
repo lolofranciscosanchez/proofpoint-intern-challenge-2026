@@ -19,7 +19,7 @@ Please run the following command in your terminal to install it:
 pip install pandas
 
 
- ##🚀 How to Run
+## 🚀 How to Run
 
 Part B: The Streaming Service's Lost Episodes
 To execute the data cleaning and deduplication process:
